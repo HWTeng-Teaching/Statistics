@@ -7,5 +7,4 @@ This is a repo to collect Prof. Huei-Wen Teng course materials for the course, s
 
 ## Course GitHUB repo
 
-
 - [202602-Statistics-II](https://github.com/HWTeng-Teaching/202602-Statistics-II)
