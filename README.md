@@ -3,8 +3,5 @@ This is a repo to collect Prof. Huei-Wen Teng course materials for the course, s
 
 ## Google Sheet
 
-- [202602-Statistics-II](https://docs.google.com/spreadsheets/d/1rQHM7CxNcuFiEzJQjNFsadMA3_9VvDoxx0XZo_PNWjA/edit?usp=sharing)
-
-## Course GitHUB repo
-
+- [202602-README in google sheet](https://docs.google.com/spreadsheets/d/1rQHM7CxNcuFiEzJQjNFsadMA3_9VvDoxx0XZo_PNWjA/edit?usp=sharing)
 - [202602-Statistics-II](https://github.com/HWTeng-Teaching/202602-Statistics-II)
